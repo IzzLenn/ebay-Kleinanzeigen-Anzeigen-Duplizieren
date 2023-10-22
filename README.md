@@ -7,6 +7,8 @@ Es fügt einen neuen Button hinzu, welcher die Anzeige 1:1 erneut veröffentlich
 
 Um doppelte Anzeigen zu vermeiden, muss die alte Anzeige händisch gelöscht werden.
 
+Zum verwenden, das <a href="https://github.com/IzzLenn/ebay-Kleinanzeigen-Anzeigen-Duplizieren/blob/main/Skript">Skript</a> kopieren und bei z.B. Tampermonkey als neues Skript einfügen.
+
 Credits: @J05HI https://github.com/J05HI
 
 
