@@ -1,5 +1,10 @@
 # ebay-Kleinanzeigen-Anzeigen-Duplizieren
 
+
+Zum verwenden, das <a href="https://github.com/IzzLenn/ebay-Kleinanzeigen-Anzeigen-Duplizieren/blob/main/Skript">Skript</a> kopieren und bei z.B. Tampermonkey als neues Skript einfügen.
+
+
+
 Dies ist ein Skript, welches in Browser Extensions (wie z.B Tampermonkey) hinzugefügt werden kann.
 Es fügt einen neuen Button hinzu, welcher die Anzeige 1:1 erneut veröffentlicht.
 
