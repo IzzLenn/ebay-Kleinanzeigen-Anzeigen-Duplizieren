@@ -14,7 +14,7 @@
 (function() {
     'use strict';
 
-    $('#pstad-submit').after('<button id="pstad-duplicate" class="button" type="submit" style="background-color: #86B817;"><span>Anzeige duplizieren</span></button>');
+    $('#pstad-submit').after('<button id="pstad-duplicate" class="button" type="submit" style="background-color: #B5E941;"><span>Anzeige duplizieren</span></button>');
 
     $('#pstad-duplicate').click(function(e) {
         e.preventDefault();
