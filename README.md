@@ -7,7 +7,7 @@ Es fügt einen neuen Button hinzu, welcher die Anzeige 1:1 erneut veröffentlich
 
 Um doppelte Anzeigen zu vermeiden, muss die alte Anzeige händisch gelöscht werden.
 
-Credits: @J05HI
+Credits: @J05HI https://github.com/J05HI
 
 
 Der ausgeführte Code kann unter: http://code.jquery.com/jquery-3.5.1.min.js gefunden werden.
